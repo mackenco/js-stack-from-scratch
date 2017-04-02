@@ -1,7 +1,8 @@
 .DS_Store
 /*.log
-.sw*
+*.sw*
 node_modules/
 /coverage/
 /lib/
 /dist/
+/.env
